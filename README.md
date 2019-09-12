@@ -14,4 +14,6 @@ another edit in the testing branch
 
 Hello, this is another edit in the branch
 
-my collaborator is not going to believe this great new idea in line 17.
+
+This is a brilliant idea in line 17.  No way somebody has a better idea.
+
