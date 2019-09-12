@@ -12,3 +12,4 @@ just more text
 
 another edit in the testing branch
 
+Hello, this is another edit in the branch
